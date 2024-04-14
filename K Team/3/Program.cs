@@ -70,5 +70,5 @@ namespace ThirdProgramme
 /*
  *  - Nên đặt tên ngắn gọn dễ hiểu
  *  - Thể hiện rõ mục đích của biến
- *  - 
+ *  - Có phân biệt chữ hoa chữ thường -> a <> A || Console.WriteLine() <> console.WRITELINE()
  */ 
