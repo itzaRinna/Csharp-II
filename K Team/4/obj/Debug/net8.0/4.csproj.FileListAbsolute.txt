@@ -1,0 +1,15 @@
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.AssemblyInfoInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.AssemblyInfo.cs
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.csproj.CoreCompileInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.sourcelink.json
+/home/itzarinna/Desktop/Csharp-II/K Team/4/bin/Debug/net8.0/4
+/home/itzarinna/Desktop/Csharp-II/K Team/4/bin/Debug/net8.0/4.deps.json
+/home/itzarinna/Desktop/Csharp-II/K Team/4/bin/Debug/net8.0/4.runtimeconfig.json
+/home/itzarinna/Desktop/Csharp-II/K Team/4/bin/Debug/net8.0/4.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/4/bin/Debug/net8.0/4.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/refint/4.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/4.genruntimeconfig.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/4/obj/Debug/net8.0/ref/4.dll
