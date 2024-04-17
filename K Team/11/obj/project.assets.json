@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/itzarinna/Desktop/Csharp-II/K Team/1/1.csproj",
-      "projectName": "1",
-      "projectPath": "/home/itzarinna/Desktop/Csharp-II/K Team/1/1.csproj",
+      "projectUniqueName": "/home/itzarinna/Desktop/Csharp-II/K Team/11/11.csproj",
+      "projectName": "11",
+      "projectPath": "/home/itzarinna/Desktop/Csharp-II/K Team/11/11.csproj",
       "packagesPath": "/home/itzarinna/.nuget/packages/",
-      "outputPath": "/home/itzarinna/Desktop/Csharp-II/K Team/1/obj/",
+      "outputPath": "/home/itzarinna/Desktop/Csharp-II/K Team/11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/itzarinna/.nuget/NuGet/NuGet.Config"
