@@ -10,7 +10,9 @@
     <projectFile>16/16.csproj</projectFile>
     <projectFile>17/17.csproj</projectFile>
     <projectFile>18/18.csproj</projectFile>
+    <projectFile>19/19.csproj</projectFile>
     <projectFile>2/2.csproj</projectFile>
+    <projectFile>20/20.csproj</projectFile>
     <projectFile>3/3.csproj</projectFile>
     <projectFile>4/4.csproj</projectFile>
     <projectFile>5/5.csproj</projectFile>
@@ -44,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/12/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/13/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/14/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/18/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/4/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -70,6 +73,7 @@
     ".NET Project.16.executor": "Run",
     ".NET Project.17.executor": "Run",
     ".NET Project.18.executor": "Run",
+    ".NET Project.19.executor": "Run",
     ".NET Project.2.executor": "Run",
     ".NET Project.3.executor": "Run",
     ".NET Project.5.executor": "Run",
@@ -91,13 +95,13 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "/home/itzarinna/.var/app/com.jetbrains.Rider/config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/home/itzarinna/.var/app/com.jetbrains.Rider/config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/home/itzarinna/.var/app/com.jetbrains.Rider/data/Symbols/src"
+      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\WINDOWS\\AppData\\Local\\Symbols\\src"
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.18">
+  <component name="RunManager" selected=".NET Project.20">
     <configuration name="1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -260,7 +264,7 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="18" type="DotNetProject" factoryName=".NET Project">
+    <configuration name="19" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -268,12 +272,30 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/18/18.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/19/19.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="19" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/19/bin/Debug/net8.0/19.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19/bin/Debug/net8.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/19/19.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net8.0" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -287,6 +309,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/2/2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="20" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/20/20.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -387,10 +427,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.20" />
       <item itemvalue=".NET Project.15" />
       <item itemvalue=".NET Project.16" />
       <item itemvalue=".NET Project.17" />
-      <item itemvalue=".NET Project.18" />
+      <item itemvalue=".NET Project.19" />
       <item itemvalue=".NET Project.14" />
       <item itemvalue=".NET Project.12" />
       <item itemvalue=".NET Project.11" />
@@ -433,6 +474,7 @@
       <workItem from="1713413610927" duration="1757000" />
       <workItem from="1713420091558" duration="1708000" />
       <workItem from="1713426039183" duration="7101000" />
+      <workItem from="1713439921589" duration="761000" />
     </task>
     <servers />
   </component>
