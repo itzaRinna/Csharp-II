@@ -9,6 +9,7 @@
     <projectFile>15/15.csproj</projectFile>
     <projectFile>16/16.csproj</projectFile>
     <projectFile>17/17.csproj</projectFile>
+    <projectFile>18/18.csproj</projectFile>
     <projectFile>2/2.csproj</projectFile>
     <projectFile>3/3.csproj</projectFile>
     <projectFile>4/4.csproj</projectFile>
@@ -22,7 +23,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c" />
+    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +69,7 @@
     ".NET Project.15.executor": "Run",
     ".NET Project.16.executor": "Run",
     ".NET Project.17.executor": "Run",
+    ".NET Project.18.executor": "Run",
     ".NET Project.2.executor": "Run",
     ".NET Project.3.executor": "Run",
     ".NET Project.5.executor": "Run",
@@ -93,7 +97,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.17">
+  <component name="RunManager" selected=".NET Project.18">
     <configuration name="1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -256,6 +260,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="18" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/18/18.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="2" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -368,6 +390,7 @@
       <item itemvalue=".NET Project.15" />
       <item itemvalue=".NET Project.16" />
       <item itemvalue=".NET Project.17" />
+      <item itemvalue=".NET Project.18" />
       <item itemvalue=".NET Project.14" />
       <item itemvalue=".NET Project.12" />
       <item itemvalue=".NET Project.11" />
@@ -409,7 +432,7 @@
       <workItem from="1713341225856" duration="1988000" />
       <workItem from="1713413610927" duration="1757000" />
       <workItem from="1713420091558" duration="1708000" />
-      <workItem from="1713426039183" duration="5676000" />
+      <workItem from="1713426039183" duration="7101000" />
     </task>
     <servers />
   </component>

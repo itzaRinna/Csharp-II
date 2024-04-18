@@ -1,0 +1,15 @@
+/home/itzarinna/Desktop/Csharp-II/K Team/18/bin/Debug/net8.0/18
+/home/itzarinna/Desktop/Csharp-II/K Team/18/bin/Debug/net8.0/18.deps.json
+/home/itzarinna/Desktop/Csharp-II/K Team/18/bin/Debug/net8.0/18.runtimeconfig.json
+/home/itzarinna/Desktop/Csharp-II/K Team/18/bin/Debug/net8.0/18.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/18/bin/Debug/net8.0/18.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.GeneratedMSBuildEditorConfig.editorconfig
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.AssemblyInfoInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.AssemblyInfo.cs
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.csproj.CoreCompileInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.sourcelink.json
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/refint/18.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/18.genruntimeconfig.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/18/obj/Debug/net8.0/ref/18.dll
