@@ -6,6 +6,9 @@
     <projectFile>12/12.csproj</projectFile>
     <projectFile>13/13.csproj</projectFile>
     <projectFile>14/14.csproj</projectFile>
+    <projectFile>15/15.csproj</projectFile>
+    <projectFile>16/16.csproj</projectFile>
+    <projectFile>17/17.csproj</projectFile>
     <projectFile>2/2.csproj</projectFile>
     <projectFile>3/3.csproj</projectFile>
     <projectFile>4/4.csproj</projectFile>
@@ -19,10 +22,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/13/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,7 @@
     <setting file="file://$PROJECT_DIR$/11/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/12/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/13/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/14/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/2/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/4/Program.cs" root0="SKIP_HIGHLIGHTING" />
@@ -62,6 +63,9 @@
     ".NET Project.1.executor": "Run",
     ".NET Project.13.executor": "Run",
     ".NET Project.14.executor": "Run",
+    ".NET Project.15.executor": "Run",
+    ".NET Project.16.executor": "Run",
+    ".NET Project.17.executor": "Run",
     ".NET Project.2.executor": "Run",
     ".NET Project.3.executor": "Run",
     ".NET Project.5.executor": "Run",
@@ -83,13 +87,13 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\WINDOWS\\AppData\\Local\\Symbols\\src"
+      "/home/itzarinna/.var/app/com.jetbrains.Rider/config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/home/itzarinna/.var/app/com.jetbrains.Rider/config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/home/itzarinna/.var/app/com.jetbrains.Rider/data/Symbols/src"
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.14">
+  <component name="RunManager" selected=".NET Project.17">
     <configuration name="1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -189,6 +193,60 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/14/14.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="15" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/15/15.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="16" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/16/16.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="17" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/17/17.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -307,6 +365,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.15" />
+      <item itemvalue=".NET Project.16" />
+      <item itemvalue=".NET Project.17" />
       <item itemvalue=".NET Project.14" />
       <item itemvalue=".NET Project.12" />
       <item itemvalue=".NET Project.11" />
@@ -348,6 +409,7 @@
       <workItem from="1713341225856" duration="1988000" />
       <workItem from="1713413610927" duration="1757000" />
       <workItem from="1713420091558" duration="1708000" />
+      <workItem from="1713426039183" duration="5676000" />
     </task>
     <servers />
   </component>
