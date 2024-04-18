@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ThirteenthProgram
+namespace ThirteenthProgramme
 {
     class Program
     {
