@@ -13,6 +13,7 @@
     <projectFile>19/19.csproj</projectFile>
     <projectFile>2/2.csproj</projectFile>
     <projectFile>20/20.csproj</projectFile>
+    <projectFile>21/21.csproj</projectFile>
     <projectFile>3/3.csproj</projectFile>
     <projectFile>4/4.csproj</projectFile>
     <projectFile>5/5.csproj</projectFile>
@@ -25,9 +26,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.K Team.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dee038e8-35c8-4236-b20c-21183d73debd" name="Changes" comment="c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +74,7 @@
     ".NET Project.18.executor": "Run",
     ".NET Project.19.executor": "Run",
     ".NET Project.2.executor": "Run",
+    ".NET Project.21.executor": "Run",
     ".NET Project.3.executor": "Run",
     ".NET Project.5.executor": "Run",
     ".NET Project.6.executor": "Run",
@@ -95,13 +95,13 @@
   },
   "keyToStringList": {
     "rider.external.source.directories": [
-      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\WINDOWS\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\WINDOWS\\AppData\\Local\\Symbols\\src"
+      "/home/itzarinna/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/home/itzarinna/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/home/itzarinna/.local/share/Symbols/src"
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.20">
+  <component name="RunManager" selected=".NET Project.21">
     <configuration name="1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -336,6 +336,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="21" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/21/21.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="3" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -427,6 +445,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue=".NET Project.21" />
       <item itemvalue=".NET Project.20" />
       <item itemvalue=".NET Project.15" />
       <item itemvalue=".NET Project.16" />
@@ -475,6 +494,7 @@
       <workItem from="1713420091558" duration="1708000" />
       <workItem from="1713426039183" duration="7101000" />
       <workItem from="1713439921589" duration="761000" />
+      <workItem from="1713485882630" duration="1615000" />
     </task>
     <servers />
   </component>
