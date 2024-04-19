@@ -1,0 +1,15 @@
+/home/itzarinna/Desktop/Csharp-II/K Team/22/bin/Debug/net8.0/22
+/home/itzarinna/Desktop/Csharp-II/K Team/22/bin/Debug/net8.0/22.deps.json
+/home/itzarinna/Desktop/Csharp-II/K Team/22/bin/Debug/net8.0/22.runtimeconfig.json
+/home/itzarinna/Desktop/Csharp-II/K Team/22/bin/Debug/net8.0/22.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/22/bin/Debug/net8.0/22.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.GeneratedMSBuildEditorConfig.editorconfig
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.AssemblyInfoInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.AssemblyInfo.cs
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.csproj.CoreCompileInputs.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.sourcelink.json
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/refint/22.dll
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.pdb
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/22.genruntimeconfig.cache
+/home/itzarinna/Desktop/Csharp-II/K Team/22/obj/Debug/net8.0/ref/22.dll
