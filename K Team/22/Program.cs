@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _22thProgram
+namespace _22ndProgram
 {
     class Program
     {

@@ -29,17 +29,17 @@ namespace TenthProgramme
             #region Var
 
             // Lỗi vì chưa khởi tạo giá trị cho biến varInt.
-            var varInt;
-
+            // var varInt;
+            //
             // Lỗi vì không được khởi tạo giá trị null cho biến varString.
-            var varString = null;
-
+            // var varString = null;
+            //
             // Lỗi vì phải khởi tạo giá trị ngay khi khai báo
-            var varLong;
-            varLong = 109;
-
+            // var varLong;
+            // varLong = 109;
+            //
             // Khai báo đúng!
-            var varBool = true;
+            // var varBool = true;
 
             #endregion
 
