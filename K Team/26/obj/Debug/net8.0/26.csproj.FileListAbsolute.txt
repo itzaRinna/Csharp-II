@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.sourcelink.json
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\bin\Debug\net8.0\26.exe
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\bin\Debug\net8.0\26.deps.json
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\bin\Debug\net8.0\26.runtimeconfig.json
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\bin\Debug\net8.0\26.dll
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\bin\Debug\net8.0\26.pdb
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.dll
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\refint\26.dll
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.pdb
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\26.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Csharp-II\K Team\26\obj\Debug\net8.0\ref\26.dll
